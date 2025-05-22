@@ -1,11 +1,20 @@
-  =>  Template Name    : Klean - Cleaning Services Website Template
+🧼 Klyn – Smart Cleaning Services Website
+Klyn is a modern, responsive website built for businesses offering professional cleaning services 
+such as home cleaning, office janitorial work, fumigation, and laundry. 
+Designed for both user-friendliness and scalability, Klean provides a clean interface to attract and convert customers
+ efficiently.
 
-  =>  Template Link    : https://htmlcodex.com/cleaning-services-website-template-free
+🌟 Features
+🏠 Service Showcase: Highlight your core offerings—home, office, laundry, and fumigation.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+📅 Booking System (optional integration): Allow users to schedule cleanings or consultations online.
 
-  =>  Template Author  : HTML Codex
+📱 Responsive Design: Optimized for all devices—mobile, tablet, and desktop.
 
-  =>  Author Website   : https://htmlcodex.com
+📞 Contact & Inquiry Form: Easy way for customers to reach out.
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+📍 Location-Based Services: Optionally display your service areas using maps.
+
+💬 Testimonials & Reviews: Build trust with client feedback.
+
+⚡ Fast & Lightweight: Minimalist design for quick load times and smooth UX.
